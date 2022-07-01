@@ -85,7 +85,7 @@
 @import url("/blocks/footer/__columns/footer__columns.css");
 @import url("/blocks/footer/__social-icon/footer__social-icon.css");
 
-@import url("/animation/rotation.css");
+@import url("/rotation/rotation.css");
 
 h1, h2, h3, h4, h5, h6, p {
     margin: 0;
