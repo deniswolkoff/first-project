@@ -1,0 +1,8 @@
+.cards {
+    width: 920px; /*НЕ ЗАБЫТЬ ПОМЕНЯТЬ НА 920 - СДЕЛАНО РАДИ BORDER*/
+    display: flex;
+    gap: 0 100px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
