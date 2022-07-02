@@ -28,7 +28,7 @@
 @import url("../blocks/section-title/__text/section-title__text_theme_dark.css");
 
 @import url("../blocks/section-subtitle/section-subtitle.css");
-@import url("/blocks/section-subtitle/__text/section-subtitle__text_theme_dark.css");
+@import url("../blocks/section-subtitle/__text/section-subtitle__text_theme_dark.css");
 
 @import url("../blocks/cards/card.css");
 @import url("../blocks/cards/__description/cards__description.css");
