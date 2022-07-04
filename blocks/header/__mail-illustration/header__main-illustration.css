@@ -4,5 +4,6 @@
     position: absolute;
     bottom: 0;
     right: 0;
+    object-fit: contain;
   }
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
